@@ -18,9 +18,10 @@ promotion effectiveness, and category performance using Power BI.
 - Data modeling & visualization
 
 ## Files in this Repository
-- [ZARA_Sales_Dashboard_PowerBI.pbix](ZARA_Sales_Dashboard_PowerBI.pbix) – Power BI dashboard file
-- [Dashboard_Overview.png](Dashboard_Overview.png) – Main dashboard view
-- [Promotion_Insights.png](Promotion_Insights.png) – Promotion analysis page
+- [ZARA Sales Dashboard (Power BI)](ZARA%20Sales%20Dashboard.pbix)
+- [Dashboard Overview](Dashboard%20Overview.png)
+- [Promotion Insights](Promotion%20Insights.png)
+
 
 
 ## Author
